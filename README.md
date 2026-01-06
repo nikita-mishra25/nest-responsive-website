@@ -26,5 +26,5 @@ This project focuses on clean UI design, reusable components, and mobile-friendl
 
 ---
 
-## 📁 Project Structure
+
 
