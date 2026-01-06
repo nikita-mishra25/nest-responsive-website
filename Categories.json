@@ -1,0 +1,51 @@
+{
+  "tabs": ["Cake & Milk", "Coffes & Teas", "Pet Foods", "Vegetables"],
+
+  "categories": [
+    { "title": "Red Apple", "items": "54 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-9.png", "bg": "#fdeee7" },
+    { "title": "Snack", "items": "56 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-3.png", "bg": "#fff3e8" },
+    { "title": "Vegetables", "items": "72 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-2.png", "bg": "#f3f0ff" },
+    { "title": "Strawberry", "items": "36 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-5.png", "bg": "#f0f8e2" },
+    { "title": "Black plum", "items": "123 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-4.png", "bg": "#fdeee7" },
+    { "title": "Custard apple", "items": "34 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-6.png", "bg": "#fffceb" },
+    { "title": "Coffe & Tea", "items": "89 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-1.png", "bg": "#fdeee7" },
+    { "title": "Headphone", "items": "87 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-8.png", "bg": "#ecffec" },
+    { "title": "Cake & Milk", "items": "26 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-7.png", "bg": "#f0f8e2" },
+    { "title": "Organic Kiwi", "items": "28 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-10.png", "bg": "#fffceb" },
+
+    { "title": "Peach", "items": "14 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-11.png", "bg": "#fdeee7" },
+    { "title": "Orange", "items": "22 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-12.png", "bg": "#fff3e8" },
+    { "title": "Broccoli", "items": "18 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-13.png", "bg": "#f3f0ff" },
+    { "title": "Milk", "items": "31 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-14.png", "bg": "#f0f8e2" },
+    { "title": "Cheese", "items": "27 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-15.png", "bg": "#fdeee7" },
+    { "title": "Eggs", "items": "19 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-16.png", "bg": "#fffceb" },
+    { "title": "Bread", "items": "16 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-17.png", "bg": "#fdeee7" },
+    { "title": "Juice", "items": "21 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-18.png", "bg": "#ecffec" },
+    { "title": "Tomato", "items": "24 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-19.png", "bg": "#f0f8e2" },
+    { "title": "Potato", "items": "29 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-20.png", "bg": "#fffceb" },
+
+    { "title": "Onion", "items": "33 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-21.png", "bg": "#fdeee7" },
+    { "title": "Fish", "items": "12 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-22.png", "bg": "#fff3e8" },
+    { "title": "Meat", "items": "17 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-23.png", "bg": "#f3f0ff" },
+    { "title": "Rice", "items": "40 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-24.png", "bg": "#f0f8e2" },
+    { "title": "Oil", "items": "20 items", "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/cat-25.png", "bg": "#fffceb" }
+  ],
+
+  "images": [
+    {
+      "title": "Everyday Fresh & Clean with Our Products",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/banner/banner-1.png",
+      "bg": "#f6f0dd"
+    },
+    {
+      "title": "Make your Breakfast Healthy and Easy",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/banner/banner-2.png",
+      "bg": "#f3e8e8"
+    },
+    {
+      "title": "The best Organic Products Online",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/banner/banner-3.png",
+      "bg": "#e9edf3"
+    }
+  ]
+}

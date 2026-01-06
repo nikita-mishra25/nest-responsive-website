@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "section": "Top Selling",
+    "title": "Nestle Original Coffee-Mate Coffee Creamer",
+    "price": 15.99,
+    "rating": 4.5,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/thumbnail-1.jpg"
+  },
+  {
+    "id": 2,
+    "section": "Top Selling",
+    "title": "Nestle Original Coffee-Mate Coffee Creamer",
+    "price": 12.99,
+    "rating": 4.2,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/thumbnail-2.jpg"
+  },
+  {
+    "id": 3,
+    "section": "Top Selling",
+    "title": "Nestle Original Coffee-Mate Coffee Creamer",
+    "price": 8.99,
+    "rating": 4.0,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/thumbnail-3.jpg"
+  },
+  {
+    "id": 4,
+    "section": "Trending Products",
+    "title": "Organic Cage-Free Grade A Large Brown Eggs",
+    "price": 18.25,
+    "rating": 4.5,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/thumbnail-4.jpg"
+  },
+  {
+    "id": 5,
+    "section": "Trending Products",
+    "title": "Seeds of Change Organic Quinoa, Brown, & Red Rice",
+    "price": 10.99,
+    "rating": 4.0,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/thumbnail-5.jpg"
+  },
+  {
+    "id": 6,
+    "section": "Trending Products",
+    "title": "Naturally Flavored Cinnamon Vanilla Light Roast Coffee",
+    "price": 12.85,
+    "rating": 3.8,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/thumbnail-6.jpg"
+  },
+  {
+    "id": 7,
+    "section": "Recently Added",
+    "title": "Pepperidge Farm Farmhouse Hearty White Bread",
+    "price": 14.99,
+    "rating": 4.1,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/thumbnail-7.jpg"
+  },
+  {
+    "id": 8,
+    "section": "Recently Added",
+    "title": "Organic Frozen Triple Berry",
+    "price": 24.85,
+    "rating": 4.3,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/thumbnail-8.jpg"
+  },
+  {
+    "id": 9,
+    "section": "Recently Added",
+    "title": "Oroweat Country Buttermilk",
+    "price": 12.85,
+    "rating": 3.9,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/thumbnail-9.jpg"
+  },
+  {
+    "id": 10,
+    "section": "Top Rated",
+    "title": "Foster Farms Takeout Crispy Classic Buffalo Wings",
+    "price": 22.5,
+    "rating": 5.0,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/thumbnail-10.jpg"
+  },
+  {
+    "id": 11,
+    "section": "Top Rated",
+    "title": "Angie's Boomchickapop Sweet & Salty Kattle Corn",
+    "price": 18.75,
+    "rating": 4.8,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/thumbnail-11.jpg"
+  },
+  {
+    "id": 12,
+    "section": "Top Rated",
+    "title": "All Natural Italian-Stlye Chicken Meatballs",
+    "price": 10.99,
+    "rating": 4.9,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/thumbnail-12.jpg"
+  }
+]

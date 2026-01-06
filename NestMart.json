@@ -1,0 +1,37 @@
+{
+  "banner": {
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/banner/banner-9.png",
+    "title": "Stay home & get your daily needs from our shop",
+    "subtitle": "Start Your Daily Shopping with Nest Mart",
+    "placeholder": "Your email address",
+    "button": "Subscribe"
+  },
+
+  "features": [
+    {
+      "icon": "https://nest-frontend-v6.vercel.app/assets/imgs/theme/icons/icon-1.svg",
+      "title": "Best prices & offers",
+      "desc": "Orders $50 or more"
+    },
+    {
+      "icon": "https://nest-frontend-v6.vercel.app/assets/imgs/theme/icons/icon-2.svg",
+      "title": "Free delivery",
+      "desc": "24/7 amazing services"
+    },
+    {
+      "icon": "https://nest-frontend-v6.vercel.app/assets/imgs/theme/icons/icon-3.svg",
+      "title": "Great daily deal",
+      "desc": "When you sign up"
+    },
+    {
+      "icon": "https://nest-frontend-v6.vercel.app/assets/imgs/theme/icons/icon-4.svg",
+      "title": "Wide assortment",
+      "desc": "Mega Discounts"
+    },
+    {
+      "icon": "https://nest-frontend-v6.vercel.app/assets/imgs/theme/icons/icon-5.svg",
+      "title": "Easy returns",
+      "desc": "Within 30 days"
+    }
+  ]
+}

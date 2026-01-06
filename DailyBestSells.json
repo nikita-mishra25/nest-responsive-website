@@ -1,0 +1,292 @@
+{
+  "categories": ["Featured", "Popular", "New added"],
+  "banner": {
+    "title": "Bring nature into your home",
+    "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTItGcw9CmmRZF8zlVc7t5CZ3tCuOKeQNXXBQ33293siIluXwj9",
+    "buttonText": "Shop Now"
+  },
+  "products": [
+    {
+      "id": 1,
+      "title": "Blue Diamond Almonds Lightly Salted",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 50,
+      "total": 120,
+      "badge": "Save 15%",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-14-2.jpg",
+      "category": "Featured"
+    },
+    {
+      "id": 2,
+      "title": "Seeds of Change Organic Quinoa",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 90,
+      "total": 120,
+      "badge": "Save 15%",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-3-2.jpg",
+      "category": "Featured"
+    },
+    {
+      "id": 3,
+      "title": "All Natural Italian-Style Chicken Meatballs",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 40,
+      "total": 120,
+      "badge": "Save 35%",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-10-2.jpg",
+      "category": "Popular"
+    },
+    {
+      "id": 4,
+      "title": "Angie’s Boomchickapop Sweet & Salty",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 60,
+      "total": 120,
+      "badge": "Sale",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-15-2.jpg",
+      "category": "Popular"
+    },
+
+    {
+      "id": 5,
+      "title": "Seeds of Change Organic Quinoa",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 90,
+      "total": 120,
+      "badge": "Save 15%",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-12-2.jpg",
+      "category": "Featured"
+    },
+    {
+      "id": 6,
+      "title": "All Natural Italian-Style Chicken Meatballs",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 90,
+      "total": 120,
+      "badge": "Save 35%",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-4-2.jpg",
+      "category": "Popular"
+    },
+    {
+      "id": 7,
+      "title": "Angie’s Boomchickapop Sweet & Salty",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 90,
+      "total": 120,
+      "badge": "Sale",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-1-2.jpg",
+      "category": "Popular"
+    },
+
+
+    {
+      "id": 8,
+      "title": "Seeds of Change Organic Quinoa",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 90,
+      "total": 120,
+      "badge": "Save 15%",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-3-2.jpg",
+      "category": "Featured"
+    },
+    {
+      "id": 9,
+      "title": "All Natural Italian-Style Chicken Meatballs",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 90,
+      "total": 120,
+      "badge": "Save 35%",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-2-2.jpg",
+      "category": "Popular"
+    },
+    {
+      "id": 10,
+      "title": "Angie’s Boomchickapop Sweet & Salty",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 90,
+      "total": 120,
+      "badge": "Sale",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-4-2.jpg",
+      "category": "Popular"
+    },
+
+
+    {
+      "id": 11,
+      "title": "Seeds of Change Organic Quinoa",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 90,
+      "total": 120,
+      "badge": "Save 15%",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-3-2.jpg",
+      "category": "Featured"
+    },
+    {
+      "id": 12,
+      "title": "All Natural Italian-Style Chicken Meatballs",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 90,
+      "total": 120,
+      "badge": "Save 35%",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-2-2.jpg",
+      "category": "Popular"
+    },
+    {
+      "id": 13,
+      "title": "Angie’s Boomchickapop Sweet & Salty",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 90,
+      "total": 120,
+      "badge": "Sale",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-4-2.jpg",
+      "category": "Popular"
+    },
+
+
+    {
+      "id": 14,
+      "title": "Seeds of Change Organic Quinoa",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 90,
+      "total": 120,
+      "badge": "Save 15%",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-3-2.jpg",
+      "category": "New added"
+    },
+    {
+      "id": 15,
+      "title": "All Natural Italian-Style Chicken Meatballs",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 90,
+      "total": 120,
+      "badge": "Save 35%",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-2-2.jpg",
+      "category": "New added"
+    },
+    {
+      "id": 16,
+      "title": "Angie’s Boomchickapop Sweet & Salty",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 90,
+      "total": 120,
+      "badge": "Sale",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-4-2.jpg",
+      "category": "New added"
+    },
+    {
+      "id": 17,
+      "title": "All Natural Italian-Style Chicken Meatballs",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 90,
+      "total": 120,
+      "badge": "Save 35%",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-2-2.jpg",
+      "category": "New added"
+    },
+   {
+      "id": 18,
+      "title": "All Natural Italian-Style Chicken Meatballs",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 90,
+      "total": 120,
+      "badge": "Save 35%",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-4-2.jpg",
+      "category": "New added"
+    },
+   {
+      "id": 19,
+      "title": "All Natural Italian-Style Chicken Meatballs",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 90,
+      "total": 120,
+      "badge": "Save 35%",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-2-2.jpg",
+      "category": "New added"
+    },
+   {
+      "id": 20,
+      "title": "All Natural Italian-Style Chicken Meatballs",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 90,
+      "total": 120,
+      "badge": "Save 35%",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-3-2.jpg",
+      "category": "New added"
+    },
+   {
+      "id": 21,
+      "title": "All Natural Italian-Style Chicken Meatballs",
+      "brand": "Hodo Foods",
+      "price": 238.85,
+      "oldPrice": 245.8,
+      "rating": 4,
+      "sold": 90,
+      "total": 120,
+      "badge": "Save 35%",
+      "image": "https://nest-frontend-v6.vercel.app/assets/imgs/shop/product-1-2.jpg",
+      "category": "New added"
+    }
+   
+
+  ]
+}

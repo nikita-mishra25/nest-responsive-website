@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Seeds of Change Organic Quinoa, Brown, & Red Rice",
+    "brand": "NestFood",
+    "price": 32.85,
+    "oldPrice": 33.8,
+    "rating": 4.0,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/banner/banner-5.png",
+    "endTime": "2025-12-31T23:59:59"
+  },
+  {
+    "id": 2,
+    "title": "Perdue Simply Smart Organics Gluten Free",
+    "brand": "Old El Paso",
+    "price": 24.85,
+    "oldPrice": 26.8,
+    "rating": 4.0,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/banner/banner-6.png",
+    "endTime": "2026-01-10T23:59:59"
+  },
+  {
+    "id": 3,
+    "title": "Signature Wood-Fired Mushroom and Caramelized",
+    "brand": "Progresso",
+    "price": 12.85,
+    "oldPrice": 13.8,
+    "rating": 3.0,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/banner/banner-7.png",
+    "endTime": "2027-02-15T23:59:59"
+  },
+  {
+    "id": 4,
+    "title": "Simply Lemonade with Raspberry Juice",
+    "brand": "Yoplait",
+    "price": 15.85,
+    "oldPrice": 16.8,
+    "rating": 3.0,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/banner/banner-8.png",
+    "endTime": "2025-11-30T23:59:59"
+  },
+  {
+    "id": 5,
+    "title": "Organic Almond Milk Unsweetened",
+    "brand": "NestFood",
+    "price": 18.25,
+    "oldPrice": 20.0,
+    "rating": 4.5,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/banner/banner-8.png",
+    "endTime": "2026-06-10T23:59:59"
+  },
+  {
+    "id": 6,
+    "title": "Fresh Strawberry Juice",
+    "brand": "Yoplait",
+    "price": 10.99,
+    "oldPrice": 12.5,
+    "rating": 4.2,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/banner/banner-8.png",
+    "endTime": "2026-08-20T23:59:59"
+  },
+  {
+    "id": 7,
+    "title": "Healthy Green Peas Pack",
+    "brand": "Progresso",
+    "price": 8.45,
+    "oldPrice": 9.8,
+    "rating": 3.8,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/banner/banner-5.png",
+    "endTime": "2027-03-15T23:59:59"
+  },
+  {
+    "id": 8,
+    "title": "Fresh Orange Juice Premium",
+    "brand": "Old El Paso",
+    "price": 14.99,
+    "oldPrice": 17.2,
+    "rating": 4.1,
+    "image": "https://nest-frontend-v6.vercel.app/assets/imgs/banner/banner-7.png",
+    "endTime": "2026-12-25T23:59:59"
+  }
+]
